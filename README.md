@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Huy Nguyen</h1>
+<h1 align="center"> Hey there 👋, I'm Huy Nguyen!</h1>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
