@@ -9,7 +9,7 @@
 <pre>
 💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
 📚 I am pursuing a Bachelors in Computer Science and a Masters in Applied Computer Scienec
-📝 I have a strong interest in building Frontend Uis for ML applications
+📝 I have a strong interest in building ML applications
 🌟 Main languages: Javascript, Python, and Ruby
 🚩 Interested in Full Stack Machine Learning Application development
 </pre>
