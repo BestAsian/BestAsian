@@ -36,7 +36,7 @@
 </a> &nbsp;&nbsp;
 <p>
 <p align="center">
-  <img src="https://github.com/BestAsian/BestAsian/blob/main/github-user-contribution.svg" alt="snake">
+  <img src="https://github.com/BestAsian/BestAsian/blob/main/github-user-contribution.svg" alt="Panda">
 </p>
 
 ---
