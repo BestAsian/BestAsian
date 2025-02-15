@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/BestAsian">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Funny+Guy;Frontend+Developer;React%20|%20Tech+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Funny+Guy;Frontend+Developer;AI%20|%20Tech+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
 	</a>
 </p>
 
