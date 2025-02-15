@@ -35,9 +35,6 @@
   <img align="center" alt="Huy Nguyen | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
-<p align="center">
-  <img src="https://github.com/BestAsian/BestAsian/blob/main/github-user-contribution.svg" alt="Panda">
-</p>
 
 ---
 Last Edited on : 01/09/2025
